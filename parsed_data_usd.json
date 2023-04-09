@@ -1,0 +1,23 @@
+[
+  {
+    "vacancy": "Python Developer",
+    "url": "https://hh.ru/vacancy/78181120?from=vacancy_search_list&query=python+django+flask",
+    "salary": "до 3 000 USD",
+    "company": "CLS Global",
+    "city": "Москва"
+  },
+  {
+    "vacancy": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/77979533?from=vacancy_search_list&query=python+django+flask",
+    "salary": "4 000 – 6 000 USD",
+    "company": "CiPlay",
+    "city": "Санкт-Петербург"
+  },
+  {
+    "vacancy": "Data Engineer (Middle/middle+ )",
+    "url": "https://hh.ru/vacancy/78340258?from=vacancy_search_list&query=python+django+flask",
+    "salary": "2 000 – 4 000 USD",
+    "company": "ООО Мерлин АИ",
+    "city": "Санкт-Петербург"
+  }
+]
